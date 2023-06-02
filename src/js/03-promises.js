@@ -38,4 +38,4 @@ function handleSubmit(event) {
     });
     delay += step;
   }
-};
+}
